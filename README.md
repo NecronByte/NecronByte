@@ -19,4 +19,5 @@ I dwell in the dark corners of the terminal — where bits hum, compilers groan,
 > _“Knowledge is the forbidden cog in the holy machine.”_
 
 🦾 [github.com/necronbyte](https://github.com/necronbyte)   
+[![Codeberg](https://img.shields.io/badge/Codeberg-blue?logo=codeberg&logoColor=white)](https://codeberg.org/necronbyte)
 📡 [bsky.app/profile/necronbyte.bsky.social](https://bsky.app/profile/necronbyte.bsky.social)  
