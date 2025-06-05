@@ -18,7 +18,8 @@ I dwell in the dark corners of the terminal — where bits hum, compilers groan,
 
 > _“Knowledge is the forbidden cog in the holy machine.”_
 
-🦾 [github.com/necronbyte](https://github.com/necronbyte)   
-📡 [bsky.app/profile/necronbyte.bsky.social](https://bsky.app/profile/necronbyte.bsky.social)  
+[![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white)](https://github.com/NecronByte)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/necronbyte)
+[![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?logo=bluesky&logoColor=white)](https://bsky.app/profile/necronbyte.bsky.social)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://hachyderm.io/@necronbyte)
 
-[![Codeberg](https://img.shields.io/badge/Codeberg-blue?logo=codeberg&logoColor=white)](https://codeberg.org/necronbyte)
