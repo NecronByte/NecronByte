@@ -45,7 +45,6 @@ Operating somewhere between `tmux`, `Rust`, and the Eye of Terror.
 |--------|-------------|-------|
 | [`dotfiles`](https://github.com/NecronByte/dotfiles) | Minimal, fast configs for tmux, wezterm, Hyprland & more | bash, yaml |
 | `servo-scanner` *(coming soon)* | Terminal-based port scanner with Warhammer flair | Rust |
-| `ps1-theme` *(coming soon)* | Prompt theme for zsh/bash inspired by tech-cults | shell |
 | `yt-dlp-mq` *(private)* | RabbitMQ-driven C# backend for video downloads | .NET 8, MassTransit |
 | `infra-ansible` *(WIP)* | LXC provisioning, SSH hardening, secret mgmt | Ansible |
 
