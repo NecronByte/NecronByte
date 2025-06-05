@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Welcome, mortal. I am NecronByte.
 
-<!--
-**NecronByte/NecronByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I dwell in the dark corners of the terminal — where bits hum, compilers groan, and protocols whisper.
 
-Here are some ideas to get you started:
+- 🔧 Toolsmith: CLI utilities, scripting, and terminal theming
+- 🧠 Languages: Rust, C#, Bash (and a bit of eldrich magic)
+- 🛠️ Platforms: Linux-first, container-friendly, self-hosted
+- 🎨 Aesthetics: Retro cyberpunk, pixel art, tech-cult vibes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Interests
+
+- Dev environments (Hyprland, tmux, neovim)
+- Infrastructure (Ansible, Proxmox, WireGuard)
+- Game logic & simulations (roguelikes, ASCII rendering)
+- Open source & open protocols
+
+---
+
+> _“Knowledge is the forbidden cog in the holy machine.”_
+
+🦾 [github.com/necronbyte](https://github.com/necronbyte)   
+📡 [bsky.app/profile/necronbyte.bsky.social](https://bsky.app/profile/necronbyte.bsky.social)  
