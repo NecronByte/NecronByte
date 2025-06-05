@@ -1,8 +1,3 @@
-[![GitHub](https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white)](https://github.com/NecronByte)
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/necronbyte)
-[![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?logo=bluesky&logoColor=white)](https://bsky.app/profile/necronbyte.bsky.social)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://hachyderm.io/@necronbyte)
-
 <h1 align="center">⚙️ Welcome, mortal. I am NecronByte.</h1>
 <p align="center">
   <em>Terminal priest of the Machine Cult. Building, scripting, automating.</em>
