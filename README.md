@@ -54,7 +54,7 @@ Operating somewhere between `tmux`, `Rust`, and the Eye of Terror.
 
 > “The code must flow. The system must serve.”  
 > I believe in **self-hosted, transparent and keyboard-first tools**, not black boxes or SaaS monocultures.  
-> Whether it's writing a shell script, crafting a pixel art identity, or automating a homelab — the principle is the same:  
+> Whether it's writing a shell script or automating a homelab — the principle is the same:  
 > _Own your tools. Or be owned by them._
 
 ---
