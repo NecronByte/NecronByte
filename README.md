@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Welcome, mortal. I am NecronByte.</h1>
+<h1 align="center">⚙️ Welcome, mortal. I'm NecronByte.</h1>
 <p align="center">
   <em>Terminal priest of the Machine Cult. Building, scripting, automating.</em>
 </p>
