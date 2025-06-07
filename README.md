@@ -76,8 +76,7 @@ Operating somewhere between `tmux`, `Rust`, and the Eye of Terror.
 - Native `.NET` AOT & minimal containers
 - Running `yt-dlp` workers in MassTransit pipelines
 - `neovim` as full IDE (C#, Rust)
-- Btrfs snapshots on Arch/Fedora
-- Ricing Hyprland 
+- Ricing Hyprland / Building a sweet setup
 
 ---
 
