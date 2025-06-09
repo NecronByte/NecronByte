@@ -23,7 +23,7 @@
 ## 🧠 About
 
 I'm a privacy-minded, terminal-driven developer crafting tools and workflows with an aesthetic touch.  
-Operating somewhere between `tmux`, `Rust`, and the Eye of Terror.
+Operating somewhere between `Hyprland`, `Rust`, and the Eye of Terror.
 
 ### 🛠️ Stack & Tools
 - **Languages**: `Rust`, `C# (.NET)`, `Bash`, `TypeScript`
